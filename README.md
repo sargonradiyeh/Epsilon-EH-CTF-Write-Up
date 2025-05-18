@@ -1,4 +1,4 @@
-# Epsilon CTF Write-up
+# Epsilon Ethical Hacking CTF Write-up
 
 ## Overview
 This repository contains a detailed write-up of the **Epsilon CTF**, completed as part of **EECE 503G**. It documents the methodology, tools, and techniques used to exploit vulnerabilities and acquire root access.
